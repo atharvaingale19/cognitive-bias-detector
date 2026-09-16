@@ -1,4 +1,5 @@
 from src.bias_detector import analyze_text
+import pytest
 
 
 def test_analyze_text_returns_result():
@@ -32,7 +33,6 @@ def test_confidence_is_valid():
 
 
 def test_empty_input():
-
-    result = analyze_text("")
-
-    assert result is None
+    with pytest.raises(ValueError):
+        analyze_text("")
+    
