@@ -182,6 +182,7 @@ cognitive-bias-detector/
 │   ├── audit_dataset.py
 │   └── error_analysis.py
 │
+```
 
 ## Technologies
 
