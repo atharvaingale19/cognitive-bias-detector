@@ -105,7 +105,7 @@ if st.button(
             )
 
             st.metric(
-                "Model probability",
+                "Relative model confidence",
                 f"{confidence:.1%}",
             )
 
