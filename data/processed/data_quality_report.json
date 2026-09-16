@@ -1,0 +1,19 @@
+{
+    "original_rows": 5250,
+    "missing_text_rows": 290,
+    "missing_label_rows": 246,
+    "rows_after_missing_value_removal": 4729,
+    "invalid_label_rows": 0,
+    "invalid_labels_found": [],
+    "rows_after_label_cleaning": 4729,
+    "duplicate_text_rows_removed": 3618,
+    "final_unique_rows": 1111,
+    "number_of_classes": 5,
+    "class_distribution": {
+        "catastrophizing": 238,
+        "mind_reading": 229,
+        "none": 217,
+        "overgeneralization": 203,
+        "personalization": 224
+    }
+}

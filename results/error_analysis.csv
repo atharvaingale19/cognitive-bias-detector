@@ -1,0 +1,37 @@
+text,actual,predicted,confidence
+Everyone in my class is smarter than me.,overgeneralization,catastrophizing,0.30124723348738863
+He is in a bad mood because of me.!!!...,personalization,mind_reading,0.41663987088515825
+everyone in my class is smarter than me.,overgeneralization,catastrophizing,0.30124723348738863
+He is in a bad mood because of me.,personalization,mind_reading,0.41663987088515825
+<div>Everyone in my class is smarter than me.</div>,overgeneralization,mind_reading,0.23883158519151462
+<div>He is in a bad mood because of me.</div>,personalization,mind_reading,0.3736409697386699
+EVERYONE IN MY CLASS IS SMARTER THAN ME.,overgeneralization,catastrophizing,0.30124723348738863
+he is in a bad mood because of me.,personalization,mind_reading,0.41663987088515825
+ONE BAD SEMESTER MEANS MY WHOLE DEGREE IS A FAILURE.,overgeneralization,catastrophizing,0.6596746139552934
+One bad semester means my whole degree is a failure.,overgeneralization,catastrophizing,0.6596746139552934
+<p>One bad semester means my whole degree is a failure.</p>,overgeneralization,catastrophizing,0.6596746139552934
+one bad semester means my whole degree is a failure.,overgeneralization,catastrophizing,0.6596746139552934
+HE IS IN A BAD MOOD BECAUSE OF ME.,personalization,mind_reading,0.41663987088515825
+One bad semester means my whole degree is a failure.!!!',overgeneralization,catastrophizing,0.6596746139552934
+One bad semester means my whole degree is a failure.!!!(,overgeneralization,catastrophizing,0.6596746139552934
+One bad semester means my whole degree is a failure.!!!```,overgeneralization,catastrophizing,0.6596746139552934
+One bad semester means my whole degree is a failure.!!!}}},overgeneralization,catastrophizing,0.6596746139552934
+Everyone in my class is smarter than me.!!!''',overgeneralization,catastrophizing,0.30124723348738863
+Everyone in my class is smarter than me.!!!+,overgeneralization,catastrophizing,0.30124723348738863
+Everyone in my class is smarter than me.!!!--,overgeneralization,catastrophizing,0.30124723348738863
+<div>The company hired five new engineers this month.</div>,none,personalization,0.31156136554046676
+He is in a bad mood because of me.!!!''',personalization,mind_reading,0.41663987088515825
+One bad semester means my whole degree is a failure.!!!!,overgeneralization,catastrophizing,0.6596746139552934
+<p>Everyone in my class is smarter than me.</p>,overgeneralization,catastrophizing,0.30124723348738863
+<p>He is in a bad mood because of me.</p>,personalization,mind_reading,0.41663987088515825
+He is in a bad mood because of me.!!!;;;,personalization,mind_reading,0.41663987088515825
+Everyone in my class is smarter than me.!!!=,overgeneralization,catastrophizing,0.30124723348738863
+One bad semester means my whole degree is a failure.!!!::,overgeneralization,catastrophizing,0.6596746139552934
+One bad semester means my whole degree is a failure.!!!],overgeneralization,catastrophizing,0.6596746139552934
+He is in a bad mood because of me.!!!((,personalization,mind_reading,0.41663987088515825
+"One bad semester means my whole degree is a failure.!!!""",overgeneralization,catastrophizing,0.6596746139552934
+<div>One bad semester means my whole degree is a failure.</div>,overgeneralization,catastrophizing,0.5217375789423919
+Everyone in my class is smarter than me.!!!.,overgeneralization,catastrophizing,0.30124723348738863
+He is in a bad mood because of me.!!!**,personalization,mind_reading,0.41663987088515825
+One bad semester means my whole degree is a failure.!!!_,overgeneralization,catastrophizing,0.6596746139552934
+He is in a bad mood because of me.!!!\,personalization,mind_reading,0.41663987088515825

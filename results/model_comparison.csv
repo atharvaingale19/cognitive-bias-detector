@@ -1,0 +1,3 @@
+model,macro_f1,std
+Majority Baseline,0.07056957647643392,0.0005643102629058047
+TF-IDF + Logistic Regression,1.0,0.0

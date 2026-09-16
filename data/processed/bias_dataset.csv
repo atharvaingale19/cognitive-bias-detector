@@ -1,0 +1,101 @@
+text,label
+Everyone in my class is smarter than me.,overgeneralization
+"I failed one exam, so I will always fail.",overgeneralization
+Nobody ever listens to what I say.,overgeneralization
+"One person rejected my idea, so people hate my ideas.",overgeneralization
+"I made a mistake at work, so I'm bad at my job.",overgeneralization
+Every interview I've had has gone terribly.,overgeneralization
+"I got sick once after eating there, so that restaurant always makes people sick.",overgeneralization
+"My friend forgot my birthday, so she never cares about me.",overgeneralization
+One bad semester means my whole degree is a failure.,overgeneralization
+People from that college are all arrogant.,overgeneralization
+"I was late today, so I'm always irresponsible.",overgeneralization
+"One project failed, so none of my projects will ever work.",overgeneralization
+"My team lost today, so we can never win.",overgeneralization
+"I struggled with calculus, so I'm terrible at every subject.",overgeneralization
+Nobody wants to work with me.,overgeneralization
+"I made one awkward comment, so I ruin every conversation.",overgeneralization
+"Every time I try something new, I fail.",overgeneralization
+"One customer complained, so all our customers must be unhappy.",overgeneralization
+"I didn't get this internship, so I'll never get an internship.",overgeneralization
+"My first attempt didn't work, so the idea is useless.",overgeneralization
+He didn't reply because he must be angry with me.,mind_reading
+"She looked away, so she probably thinks I'm boring.",mind_reading
+"They laughed after I spoke, so they were definitely laughing at me.",mind_reading
+"My professor frowned, so he must think I'm stupid.",mind_reading
+He hasn't texted me because he doesn't like me anymore.,mind_reading
+"She was quiet during dinner, so she must be upset with me.",mind_reading
+My manager didn't praise me because she thinks I'm incompetent.,mind_reading
+They didn't invite me because they don't want me around.,mind_reading
+He read my message and didn't respond because he's annoyed with me.,mind_reading
+She smiled at everyone except me because she dislikes me.,mind_reading
+My friend cancelled because I must have offended him.,mind_reading
+"The interviewer looked serious, so they probably hated my answers.",mind_reading
+He walked past without saying hello because he is mad at me.,mind_reading
+They haven't complimented my work because they think it's terrible.,mind_reading
+"She sounded tired, so she must be bored of talking to me.",mind_reading
+My roommate closed the door because he doesn't want to talk to me.,mind_reading
+The audience was quiet because they didn't like my presentation.,mind_reading
+He chose another teammate because he thinks I'm useless.,mind_reading
+My friend saw my message but didn't answer because she wants to ignore me.,mind_reading
+The recruiter hasn't replied because they think I'm unqualified.,mind_reading
+"If I fail this exam, my entire life is over.",catastrophizing
+"If I lose this job, I'll never recover.",catastrophizing
+One mistake will completely ruin my future.,catastrophizing
+"If this presentation goes badly, everyone will remember it forever.",catastrophizing
+Missing this deadline means my career is finished.,catastrophizing
+"If I get rejected, I'll never find another opportunity.",catastrophizing
+A bad grade will destroy all my chances of succeeding.,catastrophizing
+"If my project fails, everything I've worked for will be pointless.",catastrophizing
+"If I embarrass myself today, I'll never be able to face these people again.",catastrophizing
+One failed interview means my career is doomed.,catastrophizing
+"If I make a mistake in front of the team, I'll lose everyone's respect forever.",catastrophizing
+"If this relationship ends, I'll never be happy again.",catastrophizing
+"If I miss this opportunity, my future is ruined.",catastrophizing
+A single bad decision could destroy everything.,catastrophizing
+"If I don't get into this college, my life will be a disaster.",catastrophizing
+"If my presentation fails, nobody will ever trust me again.",catastrophizing
+One rejection could mean I have no future in this field.,catastrophizing
+"If I perform badly once, I'll never be respected again.",catastrophizing
+"If I lose this competition, all my hard work was worthless.",catastrophizing
+A small mistake here could completely ruin everything.,catastrophizing
+The meeting went badly because I ruined it for everyone.,personalization
+"My friend is unhappy today, so it must be because of something I did.",personalization
+The team missed the deadline because I wasn't good enough.,personalization
+It rained on our trip because I planned it badly.,personalization
+My parents argued because I caused too much stress.,personalization
+The company rejected our proposal because I wasn't persuasive enough.,personalization
+My colleague made a mistake because I didn't explain things well enough.,personalization
+The party was awkward because I made everyone uncomfortable.,personalization
+Our team lost because I didn't play well enough.,personalization
+She is having a bad day because I upset her.,personalization
+The project failed because I wasn't capable enough.,personalization
+My friend stopped talking because I must have done something wrong.,personalization
+The customer was unhappy because I handled the situation badly.,personalization
+Everyone became quiet because I said something wrong.,personalization
+The presentation was boring because I couldn't make it interesting.,personalization
+My teammate is frustrated because I am slowing everyone down.,personalization
+The group didn't finish on time because I wasn't useful enough.,personalization
+He is in a bad mood because of me.,personalization
+The event failed because I organized it poorly.,personalization
+My friend cancelled our plans because I wasn't good company.,personalization
+Portugal has never won the FIFA World Cup.,none
+Everyone deserves equal treatment under the law.,none
+The train arrived ten minutes late today.,none
+I studied for three hours before the exam.,none
+The company hired five new engineers this month.,none
+My friend didn't reply to my message yesterday.,none
+The team lost the match 2-1.,none
+I prefer tea to coffee.,none
+The library closes at eight in the evening.,none
+Our professor assigned two chapters for Monday.,none
+The temperature dropped significantly overnight.,none
+I submitted my application before the deadline.,none
+The restaurant was crowded on Saturday.,none
+She changed her major after her second year.,none
+The project requires Python and a database.,none
+I made one mistake in the presentation.,none
+The interview lasted about forty minutes.,none
+My laptop has 16 GB of RAM.,none
+The bus was delayed because of traffic.,none
+The team won three matches this season.,none
